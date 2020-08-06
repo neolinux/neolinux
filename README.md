@@ -25,11 +25,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
-- [There's more to CONSOLE than .log( ) | Things you didn't know console could do!!](https://www.youtube.com/watch?v=_-bHhEGcDiQ)
-- [Simple React.js User Login Authentication | Auth0](https://www.youtube.com/watch?v=MqczHS3Z2bc)
-- [Top 10 VS Code Updates You Don't Know About!! (July 2020)](https://www.youtube.com/watch?v=WHBQ1szkhtI)
-- [localStorage Dark/Light Mode Theme Toggle (CSS/JavaScript) | UI Design](https://www.youtube.com/watch?v=_raOFZAYXD4)
+- [Using Blender to design a 3D printed enclosure for my artificial nose project](https://www.youtube.com/watch?v=k5waMykQjak)
+- [IoT Live Coding: Building an End-To-End Asset Tracking Solution From Scratch](https://www.youtube.com/watch?v=3A6Lhakfyes)
+- [Microsoft Build 2020 - Teaser for IoT live coding session on May 20!](https://www.youtube.com/watch?v=aY9I0Xc0sNA)
+- [How to run TensorFlow Lite on the MXChip AZ3166 IoT devkit](https://www.youtube.com/watch?v=B_DcpRzkAiM)
+- [Quickly Train Your AI Model With MXChip IoT Devkit & Edge Impulse](https://www.youtube.com/watch?v=Dan8TOWg30o)
 <!-- YOUTUBE:END -->
 
 ---
