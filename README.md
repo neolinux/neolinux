@@ -1,4 +1,4 @@
-### Hi there, I'm Benjamin Cabé- aka [kartben][website] 👋
+### Hi there, I'm Benjamin Cabé - aka [kartben][website] 👋
 
 ### Connect with me:
 
