@@ -39,11 +39,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploying a LoRaWAN network server on Azure](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/SyxU_RK8LTM/deploying-a-lorawan-network-server-on-azure)
 - [Using Github Codespaces for Embedded Development](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/ejo13htt0gM/using-github-codespaces-for-embedded-development)
 - [Connecting the Wio Terminal to Azure IoT](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/1i_wMbKuqiw/connecting-the-wio-terminal-to-azure-iot)
 - [Eliminating Vanity Metrics From Your Developer Program](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/lr0ej6jJbDg/eliminating-vanity-metrics-from-your-developer-program)
 - [Using Blender to design a 3D printed enclosure](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/N-DPUWLEV1o/using-blender-to-design-a-3d-printed-enclosure)
-- [IoT Live Coding: Building an End-To-End Asset Tracking Solution From Scratch](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/3lyww1Y2H0g/iot-live-coding-building-an-end-to-end-asset-tracking-solution-from-scratch)
 <!-- BLOG-POST-LIST:END -->
 
 ---
