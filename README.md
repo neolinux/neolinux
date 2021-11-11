@@ -39,11 +39,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [5 Reasons Why I Dread Writing Embedded GUIs](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/x_oLS3cvf_s/5-reasons-why-i-dread-writing-embedded-guis)
-- [How I Built a Connected Artificial Nose &lpar;and How You Can Too!&rpar;](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/ZSepHcWGCmo/how-i-built-a-connected-artificial-nose)
-- [Deploying a LoRaWAN network server on Azure](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/SyxU_RK8LTM/deploying-a-lorawan-network-server-on-azure)
-- [Using Github Codespaces for Embedded Development](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/ejo13htt0gM/using-github-codespaces-for-embedded-development)
-- [Connecting the Wio Terminal to Azure IoT](http://feedproxy.google.com/~r/benjamin-cabe_en/~3/1i_wMbKuqiw/connecting-the-wio-terminal-to-azure-iot)
+- [5 Reasons Why I Dread Writing Embedded GUIs](https://blog.benjamin-cabe.com/2021/10/21/5-reasons-why-i-dread-writing-embedded-guis)
+- [How I Built a Connected Artificial Nose &lpar;and How You Can Too!&rpar;](https://blog.benjamin-cabe.com/2021/08/03/how-i-built-a-connected-artificial-nose)
+- [Deploying a LoRaWAN network server on Azure](https://blog.benjamin-cabe.com/2020/12/01/deploying-a-lorawan-network-server-on-azure)
+- [Using Github Codespaces for Embedded Development](https://blog.benjamin-cabe.com/2020/09/02/using-github-codespaces-for-embedded-development)
+- [Connecting the Wio Terminal to Azure IoT](https://blog.benjamin-cabe.com/2020/08/05/connecting-the-wio-terminal-to-azure-iot)
 <!-- BLOG-POST-LIST:END -->
 
 ---
