@@ -28,7 +28,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- You have the YouTube Link, use it...
+- [Airsoft-Center Allgäu - 18.03.2018](https://www.youtube.com/watch?v=3ItebmrRgQs)
+- [Balingen 10.02.2018](https://www.youtube.com/watch?v=Thuw-vtm_sE)
+- [Balingen 24 02 2018](https://www.youtube.com/watch?v=rzQEFbODLok)
+- [Airsoft Center Allgäu   11.03.2018](https://www.youtube.com/watch?v=AVPTWIiH_Io)
+- [K40 Lasercutting](https://www.youtube.com/watch?v=VTxMAXKrAVQ)
 <!-- YOUTUBE:END -->
 
 ---
